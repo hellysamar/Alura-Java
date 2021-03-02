@@ -1,6 +1,6 @@
 package sintaxe;
 
-public class sintaxeVariaveisEFluxo {
+public class TesteVariavelTipoInteiro {
 
 	public static void main(String[] args) {
 		
@@ -15,7 +15,6 @@ public class sintaxeVariaveisEFluxo {
 		
 		String nome;
 		nome = "Hellysamar";
-		
 		
 		System.out.println(nome + " tem " + idade + " anos e daqui " 
 							+ anos + " anos já estará com " + soma + ".");
