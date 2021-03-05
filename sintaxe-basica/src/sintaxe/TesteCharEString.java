@@ -19,6 +19,8 @@ public class TesteCharEString {
 		
 		System.out.println(nota + "e eu nem sei como pode, mas " + nota2 + " foi em " + mes + " " + ano);
 	
+		// o tipo String transforma os numero também em String se 
+		// estiverem pra concatenar com em uma variavel.
 		String frase = "a tarde se inicia as " + 12 + " horas.";
 		
 		System.out.println(frase);
