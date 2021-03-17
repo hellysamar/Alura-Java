@@ -4,7 +4,7 @@ public class AtividadeComandoSwitch {
 
 	public static void main(String[] args) {
 		
-		int mes = 91;
+		int mes = 9;
 		
 		switch (mes) {
 			case 1:

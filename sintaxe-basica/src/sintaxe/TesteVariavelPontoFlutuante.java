@@ -7,7 +7,7 @@ public class TesteVariavelPontoFlutuante {
 		double salario1 = 3600.00;
 		double salario2 = 600.00;
 		int diaTrabalhado = 22;
-		double porDia;
+//		double porDia;
 		
 		System.out.println("o Fulano recebia em seu último emprego R$"
 				+ salario1 + " e por dia, recebia R$" + salario1 / diaTrabalhado);

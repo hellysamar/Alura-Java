@@ -10,9 +10,9 @@ public class TesteConversãoEOutrosTipos {
 		
 		System.out.println(salarioI);
 		
-		long numeroGrande = 32432423523L;
-		short valorPequeno = 2131;
-		byte b = 127;
-		float pontoFlutuante = 3.14f;
+//		long numeroGrande = 32432423523L;
+//		short valorPequeno = 2131;
+//		byte b = 127;
+//		float pontoFlutuante = 3.14f;
 	}
 }
